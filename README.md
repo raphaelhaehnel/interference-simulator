@@ -6,7 +6,7 @@ This program is a tool to analyze wave interferences.
 
 ![Capture](https://user-images.githubusercontent.com/69756617/206929711-9462ca23-58fa-4ff4-8664-4c750ec292cc.PNG)
 
-You can simulate three different types of waves:
+It can simulate three different types of waves:
 - Pane waves
 - Gaussian waves
 - Cylindrical waves
